@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b7b5edc-2778-4414-a9e2-1f216b35f702": {
+      "ProjectGuid": "6b7b5edc-2778-4414-a9e2-1f216b35f702",
+      "DisplayName": "HelloWorld_Client",
+      "ColorIndex": 0
+    },
+    "ed11d107-d794-4660-9bc3-953d36444975": {
+      "ProjectGuid": "ed11d107-d794-4660-9bc3-953d36444975",
+      "DisplayName": "HelloWorld_Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

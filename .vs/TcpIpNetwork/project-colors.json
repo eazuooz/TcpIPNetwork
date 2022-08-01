@@ -10,7 +10,22 @@
       "ProjectGuid": "ed11d107-d794-4660-9bc3-953d36444975",
       "DisplayName": "HelloWorld_Server",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "d47be875-03dd-44db-9e63-057e2093971d": {
+      "ProjectGuid": "d47be875-03dd-44db-9e63-057e2093971d",
+      "DisplayName": "Echo_Server",
+      "ColorIndex": 2
+    },
+    "c05fea8b-4767-4720-80d5-e9ef02b51a3b": {
+      "ProjectGuid": "c05fea8b-4767-4720-80d5-e9ef02b51a3b",
+      "DisplayName": "Echo_Client",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

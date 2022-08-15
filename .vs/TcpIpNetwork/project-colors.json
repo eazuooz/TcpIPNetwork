@@ -25,7 +25,17 @@
       "ProjectGuid": "c05fea8b-4767-4720-80d5-e9ef02b51a3b",
       "DisplayName": "Echo_Client",
       "ColorIndex": 3
+    },
+    "68342dec-a813-4b4d-ae25-261ab7820e43": {
+      "ProjectGuid": "68342dec-a813-4b4d-ae25-261ab7820e43",
+      "DisplayName": "AsyncNotEchoServer",
+      "ColorIndex": 4
+    },
+    "b62b75fd-3cf9-4e0a-aa84-20b4ae7b8255": {
+      "ProjectGuid": "b62b75fd-3cf9-4e0a-aa84-20b4ae7b8255",
+      "DisplayName": "EchoClient",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
